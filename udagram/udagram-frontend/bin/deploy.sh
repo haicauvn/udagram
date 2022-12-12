@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./www s3://elasticbeanstalk-us-east-1-029356068731/
+aws s3 cp --recursive --acl public-read ./www s3://mybk029356068731/
