@@ -1,9 +1,7 @@
 # Udagram
 
 ## Hosting link
-[http://mybk435567672612312377.s3-website.us-east-2.amazonaws.com](http://mybk43556767261231277.s3-website.us-east-2.amazonaws.com)
-
-sf
+[http://mybk029356068731.s3-website-us-east-1.amazonaws.com](http://mybk029356068731.s3-website-us-east-1.amazonaws.com)
 
 ## ENV file set up
 - AWS_ACCESS_KEY_ID
@@ -17,6 +15,3 @@ sf
 - POSTGRES_USERNAME
 - PORT 
 - URL
-
-## CircleCI Badge
-[![CircleCI](https://circleci.com/gh/aaaaa123/udagram.svg?style=svg)](https://app.circleci.com/pipelines/github/PhucLK/udagram/73/workflows/3aebb225-de63-4bfd-89dc-ec58daa672e0/jobs/105)
